@@ -1,3 +1,3 @@
-DjangoRestApiPgsql
+Django RestAPI PgSQL
 
-REST API built in Django using Rest Framework and a PostgreSQLL database
+REST API built in Django with Rest Framework and using a PostgreSQL database.
